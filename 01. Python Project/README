@@ -1,26 +1,14 @@
-## Overview
-* This is an updated and better version of my movie app, where I only had 10 personal movies, This app fetches data from the TMDB API to show information about movies. This App also uses another Api that allows the user to send voice command to the app and the app will do it. 
 
-### Question/Commands you can ask the app and the app will give you an answer or action.
+# Music Project
 
-1. What does this app do?
-2. Give the command [go to] "pick a genre/category"
-3. Give the command "Change screen Mode" 
-4. More command and functionalities to come... 
+In this project, we compared the music preferences of the cities of Springfield and Shelbyville. We looked at real Music data to test the hypotheses below and compare user behavior for these two cities.
 
-### Prerequisites
-* You need to create an account and get an API key in the MovieDatabase Api [Follow the link -> ](https://developers.themoviedb.org/3)
 
-### Functionality
+## Hypotheses
 
-Music Project
-
-In this project, you'll compare the music preferences of the cities of Springfield and Shelbyville. You'll look at real Music data to test the hypotheses below and compare user behavior for these two cities.
-
-Hypotheses
-* User activity differs depending on the day of the week and from city to city.
-* On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings.
-* Springfield and Shelbyville listeners have different preferences. In Springfield, they prefer pop, while Shelbyville has more rap fans.
+- User activity differs depending on the day of the week and from city to city.
+- On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings.
+- Springfield and Shelbyville listeners have different preferences. In Springfield, they prefer pop, while Shelbyville has more rap fans.
 
 
 Make sure there are read.me's for each project and that they are of the same structure and cover the main points: 
