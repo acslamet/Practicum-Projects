@@ -13,6 +13,6 @@ In this project, we compared the music preferences of the cities of Springfield 
 - To help which type of listeners to focus on for advertising and promotions
 
 
-## Tools and Concepts
+## Tools
 
 - Python- Pandas
