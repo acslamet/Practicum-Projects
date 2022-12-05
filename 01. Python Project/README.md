@@ -1,7 +1,7 @@
 
 # Music Project
 
-In this project, we compared the music preferences of the cities of Springfield and Shelbyville. We looked at real Music data to test the hypotheses below and compare user behavior for these two cities.
+In this project, we compared the music preferences of the cities of Springfield and Shelbyville. We looked at real Music data to compare user behavior for these two cities.
 
 
 ## Goal
