@@ -1,6 +1,7 @@
 # Business Analytics Project
 
 You've been offered an internship in the analytical department at Yandex.Afisha. Your first task is to help optimize marketing expenses.
+
 You have:
 
 - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
