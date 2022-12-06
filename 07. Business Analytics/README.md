@@ -15,11 +15,18 @@ You are going to study:
 
 ## Goals
 
+- Investigate the relationship between marketing expenses and customer behavior
 
 ## Business Value
 
+- Learn about customer behavior to help better determine how to allocate marketing expenses
 
 ## Tools
 
 Python:
-- 
+- Pandas
+- Numpy
+- Matplotlib
+- Plotly
+- Seaborn
+- Scipy
