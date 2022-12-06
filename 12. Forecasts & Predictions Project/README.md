@@ -18,12 +18,18 @@ In order to fight churn, Model Fitness has digitized a number of its customer pr
 - Analyze the factors that impact churn most
 * Identify target groups
 * Suggest measures to cut churn
-* Describe any other patterns you see with respect to interaction with customers
+* Describe any other patterns with respect to interaction with customers
 
 ## Business Value
 
--
+- The results of the analysis will help with customer retention
 
 ## Tools
 Python:
-- 
+- Pandas
+- Matplotlib
+- Numpy
+- Seaborn
+- Scipy
+- Sklearn
+- Plotly
