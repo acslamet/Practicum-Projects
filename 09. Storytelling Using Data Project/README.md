@@ -5,13 +5,15 @@ You’re an analytics guru, so your partners have asked you to prepare some mark
 
 ## Goals
 
-
+- Investigate the food business market in the Los Angeles area.
 
 ## Business Value
 
-
+- The results of the analysis will inform us and determine whether it will be likely that a Robot-Run Cafe will be successful.
 
 ## Tools
 
 Python:
-- 
+- Pandas
+- Matplotlib
+- Seaborn
