@@ -34,7 +34,7 @@
 
 ## Business Value
 
-- 
+- The results will inform us whether there are any inconsistencies during the test period, and if there are any differences between the two sample groups. 
 
 ## Tools
 
