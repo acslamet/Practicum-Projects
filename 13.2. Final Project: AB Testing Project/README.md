@@ -4,7 +4,7 @@
 
 - Explore the data:
 
-** Do types need to be converted?
+  * Do types need to be converted?
 
 ** Are there any missing or duplicate values? If so, how would you characterize them?
 
